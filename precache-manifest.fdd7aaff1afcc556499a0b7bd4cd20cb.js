@@ -44,16 +44,16 @@ self.__precacheManifest = [
     "url": "/static/media/auth-bg-image.4ab97009.jpg"
   },
   {
+    "revision": "23586afcbed34f110de70937470877cf",
+    "url": "/static/media/LineIcons.23586afc.eot"
+  },
+  {
     "revision": "6e9fb56e13ffdf56a053e86545cafe3e",
     "url": "/static/media/LineIcons.6e9fb56e.ttf"
   },
   {
     "revision": "6106e3e25c6e52ebdceb846dc3f717b0",
     "url": "/static/media/LineIcons.6106e3e2.woff"
-  },
-  {
-    "revision": "23586afcbed34f110de70937470877cf",
-    "url": "/static/media/LineIcons.23586afc.eot"
   },
   {
     "revision": "a0ed6adf3563db2c6d93a0f2d4d2929e",
